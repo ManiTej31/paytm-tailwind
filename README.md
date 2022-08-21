@@ -5,9 +5,10 @@ Paytm responsive  landing page clone developed using HTML and TAILWIND
 
 
 
-## url : [PAYTM-CLONE](https://paytm-home-clone-tailwind.netlify.app
+## url : [PAYTM-CLONE](https://paytm-home-clone-tailwind.netlify.app)
+
 ![image](https://user-images.githubusercontent.com/110462220/185798832-c6d797a2-a010-4348-a715-998dafeecda9.png)
-)
+
 
 
  ### Responsive design:
